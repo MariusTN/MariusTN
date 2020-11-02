@@ -2,7 +2,7 @@
 
 ## Small Introduction!!
 
-- 🌱 I’m currently learning how to apply better my Front-End.
+- 🌱 I’m currently mastering MOBILE First Aproach.
 - 👌 Going to learn PHP, at least how to apply, saw that it's similar to JS.
 - 👯 I’m looking for a mentor! (Checking my gibberish code and give me feedback how to improve it)
 - 🥅 2020-2021 - Hope to join a company as a Junior Front-End!
