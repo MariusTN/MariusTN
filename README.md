@@ -5,7 +5,7 @@
 - 🌱 I’m currently mastering MOBILE First Aproach.
 - 👌 Curently learning C#
 - 👯 I’m looking for a mentor! (Checking my gibberish code and give me feedback how to improve it)
-- 🥅 2020-2021 - Hope to join a company as a Junior Front-End!
+- 🥅 2022 - Curiosity is the engine of achievement.
 
 
 ### Connect with me:
